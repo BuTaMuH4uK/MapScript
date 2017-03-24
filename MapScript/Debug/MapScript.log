@@ -1,0 +1,4 @@
+﻿  MapScript.cpp
+c:\users\butam\onedrive\документы\visual studio 2015\projects\mapscript\mapscript\mapscript.cpp(8): warning C4018: '<': signed/unsigned mismatch
+  MapScript.vcxproj -> c:\users\butam\onedrive\документы\visual studio 2015\Projects\MapScript\Debug\MapScript.exe
+  MapScript.vcxproj -> c:\users\butam\onedrive\документы\visual studio 2015\Projects\MapScript\Debug\MapScript.pdb (Full PDB)
